@@ -1,0 +1,6 @@
+framework module Pods_AIAroundYouUITests {
+  umbrella header "Pods-AIAroundYouUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
